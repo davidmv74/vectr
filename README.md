@@ -1,6 +1,10 @@
 # Vectr Studio
 
+[![Deploy to GitHub Pages](https://github.com/davidmv74/vectr/actions/workflows/deploy.yml/badge.svg)](https://github.com/davidmv74/vectr/actions/workflows/deploy.yml)
+
 A modern, responsive website for Vectr Studio - a UX design studio that pairs high-quality client work with real-world training for underrepresented women entering the UX field.
+
+🌐 **Live Site**: [https://davidmv74.github.io/vectr/](https://davidmv74.github.io/vectr/)
 
 ## 🚀 Features
 
