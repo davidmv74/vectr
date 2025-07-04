@@ -5,7 +5,7 @@ import Button from '../components/Button'
 const About = () => {
   const teamMembers = [
     {
-      name: "Maya Rodriguez",
+      name: "Julie Higgins",
       role: "Founder & Creative Director",
       bio: "Former design lead at top tech companies, Maya founded Vectr Studio to create opportunities for underrepresented women in UX while delivering exceptional design work.",
       image: "👩🏽‍💻",
